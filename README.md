@@ -2,17 +2,26 @@
 ## About
 
 **Name:** TinyLoadr AVR Programmer
+
 **Description:** An AVR programmer with a built-in ZIF socket for programming DIP AVRs such as ATmegas and ATtinys.
+
 **Author:** Jeff Murchison
+
 **Contact:** jeff<a>jeffmurchison.com
+
 **Date:** September 2014
+
 **Current Version:** 1.0
+
 **Current Build Number:** 4.1.0
+
+----
 
 ## Version History
 
 See CHANGELOG
 
+----
 
 ## License:
 
@@ -33,8 +42,7 @@ Noncommercial — You may not use this work for commercial purposes.
 
 Share Alike — If you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar license to this one.
 
-
-------
+----
 
 If you have any questions, comments, or if you've made some changes to my design, feel free to send me an email!
 
