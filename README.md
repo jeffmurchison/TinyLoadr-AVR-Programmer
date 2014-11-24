@@ -7,7 +7,7 @@
 
 **Author:** Jeff Murchison
 
-**Contact:** jeff<a>jeffmurchison.com
+**Contact:** jeff\<a>jeffmurchison.com
 
 **Date:** September 2014
 
