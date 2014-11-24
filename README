@@ -6,11 +6,12 @@ Description: An AVR programmer with a built-in ZIF socket for programming DIP AV
 Author: Jeff Murchison
 Contact: jeff<a>jeffmurchison.com
 Date: September, 2014
-Version: 1.0, v4.1.0
+Current Version: 1.0
+Current Build Number: 4.1.0
 
 ##Version History
 
-See Changelog
+See CHANGELOG
 
 
 ##License:
@@ -35,10 +36,8 @@ Share Alike — If you alter, transform, or build upon this work, you may distri
 
 ------
 
-Notes: May require a custom part (ZIF socket). 
+If you have any questions, comments, or if you've made some changes to my design, feel free to send me an email!
 
-If you have any questions, comments, or if you've made some awesome changes to my design, feel free to send me an email!
-
-You can also BUY one of these shields (provided any are in stock) at:
+You can also BUY one of these programmers (provided any are in stock) at:
 
 https://www.tindie.com/stores/jeffmurchison/
