@@ -1,5 +1,5 @@
 
-##About
+## About
 
 Name: TinyLoadr AVR Programmer
 Description: An AVR programmer with a built-in ZIF socket for programming DIP AVRs such as ATmegas and ATtinys.
@@ -9,12 +9,12 @@ Date: September, 2014
 Current Version: 1.0
 Current Build Number: 4.1.0
 
-##Version History
+## Version History
 
 See CHANGELOG
 
 
-##License:
+## License:
 
 This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License:
 
