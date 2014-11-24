@@ -32,6 +32,7 @@ http://creativecommons.org/licenses/by-nc-sa/3.0/
 You are free to:
 
 Share — to copy, distribute and transmit the work 
+
 Remix — to adapt the work
 
 Under the following conditions:
