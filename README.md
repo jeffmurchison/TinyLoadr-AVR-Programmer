@@ -10,7 +10,7 @@
 **Contact:** jeff\<a>jeffmurchison.com
 
 
-##Firmware
+## Firmware
 
 There are two firmwares for this programmer - one the ATtiny85, and one for the ATtiny24. The ATtiny85 is responsible for the actual programming. The ATtiny24 reads the input from the uC Select jumper and changes the multiplexer control lines to send the SPI signals to the right pins on the ZIF socket.
 
@@ -21,7 +21,7 @@ The firmware for the ATtiny85 can be found on the Adafruit website:
 http://learn.adafruit.com/system/assets/assets/000/010/330/original/usbtinyisp_v1.0_firm.zip
 
 
-##Attribution
+## Attribution
 
 Thanks to Dick Streefland for starting the original USBtiny project.
 
